@@ -1,5 +1,8 @@
-[TOC]
-# C++ Code Snippet
+[C++ Code Snippet_1](# C++ Code Snippet_1)
+[找到重复的元素并剔除](## 找到重复的元素并剔除)
+[使用boost方便的获得年月日时分秒](## 使用boost方便的获得年月日时分秒)
+
+# C++ Code Snippet_1
 
 ## 找到重复的元素并剔除
 
@@ -63,7 +66,7 @@ for (int i = 0; i < position_indices.size(); i += 3) {
 	std::cout << "edges: " << edges.size() << "\n";
 ```
 
-##使用boost方便的获得年月日时分秒
+## 使用boost方便的获得年月日时分秒
 
 ```cpp
 //使用获得的时间信息创建Log文件
