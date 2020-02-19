@@ -1,9 +1,12 @@
-# C++ Code Snippet_1
+# C++ Code Snippet 1
 
 ## 索引
-[C++ Code Snippet_1](#C++ Code Snippet_1)
+[C++ Code Snippet 1](#C++-Code-Snippet-1)
+
 [索引](##索引)
+
 [找到重复的元素并剔除](##找到重复的元素并剔除)
+
 [使用boost方便的获得年月日时分秒](##使用boost方便的获得年月日时分秒)
 
 ## 找到重复的元素并剔除
